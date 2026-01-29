@@ -54,6 +54,8 @@
 我们相信，未来的知识管理将是 **本地化（Local-first）** 和 **AI 驱动**的。本项目正是这一理念的积极实践者，我们致力于为您打造一个真正属于您自己的、可进化的、智能的个人知识大脑。
 
 <img width="1272" height="795" alt="e1560de28db791f73f3bb178624f55d1" src="https://github.com/user-attachments/assets/eeb080d3-b678-4083-ad68-051d133c4e03" />
+<img width="1383" height="932" alt="image" src="https://github.com/user-attachments/assets/680cf877-80bb-45f2-91c9-23cba0ed7ad7" />
+
 
 ## 🤝 贡献
 
